@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color:darkcyan;
+    width: 100%;
+    font-size: 16px;
+    background-color: #999;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+article {
+    padding: 30px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(114, 228, 190);
+    border-radius: 10px;
+    margin: 150px auto;
+    overflow: hidden;
+    box-shadow: 3px 3px 10px #444;
+}
+
+article .timer {
+    padding: 15px;
+    color:white;
+    background-color: darkcyan;
+    border-radius: 5px;
+}
